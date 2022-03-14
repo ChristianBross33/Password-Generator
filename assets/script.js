@@ -1,6 +1,12 @@
 // Assignment code here
 var generateBtn = document.querySelector("#generate");
 
+//set variables for character password choices
+var lowerC = 'abcdefghijklmnopqrstuvwxyz';
+var upperC = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+var numC = '0123456789';
+var specialC = '~!@#$%^&*()_+=';
+
 function generatePassword() {
   console.log("Hey! You clicked the button!")
 
