@@ -38,7 +38,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot 
 
-(assets/images/Screenshot%202022-03-16%20163919.png)
+![Password-Generator](assets/images/Screenshot%202022-03-16%20163919.png)
 
 Published at: https://christianbross33.github.io/Password-Generator/
 Repository: https://github.com/ChristianBross33/Password-Generator
